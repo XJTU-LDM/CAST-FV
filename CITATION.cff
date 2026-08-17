@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use CAST-FV, please cite this software release and the associated manuscript."
+title: "CAST-FV"
+type: software
+version: 0.1.0
+date-released: 2026-08-17
+authors:
+  - family-names: Liu
+    given-names: Demin
+    email: liudemin@stu.xjtu.edu.cn
+    orcid: "https://orcid.org/0000-0002-2866-3389"
+abstract: >-
+  A compact reference implementation of solution-label-free neural
+  optimization for cell-centred finite-volume states and controlled physical-time advancement.
+keywords:
+  - finite volume method
+  - physics-informed machine learning
+  - neural PDE solver
+  - solution-label-free optimization
+  - unsteady incompressible flow
+  - passive scalar transport
